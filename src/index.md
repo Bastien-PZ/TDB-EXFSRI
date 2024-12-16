@@ -4,8 +4,7 @@ toc: false
 
 <div class="hero">
   <h1>TDB EXFSRI</h1>
-  <h2>Welcome to your new app! Edit&nbsp;<code style="font-size: 90%;">src/index.md</code> to change this page.</h2>
-  <a href="https://observablehq.com/framework/getting-started">Get started<span style="display: inline-block; margin-left: 0.25rem;">↗︎</span></a>
+  <h2>Bienvenue sur le site de présentation des résultats de l'enquête Exploitations forestières et sciages (EXF-SRI).</h2>
 </div>
 
 <div class="grid grid-cols-2" style="grid-auto-rows: 504px;">
