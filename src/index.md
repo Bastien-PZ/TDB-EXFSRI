@@ -40,7 +40,6 @@ toc: false
 ---
 
 ## Next steps
-
 Here are some ideas of things you could try…
 
 <div class="grid grid-cols-4">
