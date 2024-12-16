@@ -39,32 +39,73 @@ toc: false
 
 ---
 
-## Next stepssssss
-Here are some ideas of things you could try…
+html`
+<style>
+  /* Styles pour la grille */
+  .index-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    max-width: 900px;
+    margin: auto;
+  }
 
-<div class="grid grid-cols-4">
-  <div class="card">
-    Chart your own data using <a href="https://observablehq.com/framework/lib/plot"><code>Plot</code></a> and <a href="https://observablehq.com/framework/files"><code>FileAttachment</code></a>. Make it responsive using <a href="https://observablehq.com/framework/javascript#resize(render)"><code>resize</code></a>.
-  </div>
-  <div class="card">
-    Create a <a href="https://observablehq.com/framework/project-structure">new page</a> by adding a Markdown file (<code>whatever.md</code>) to the <code>src</code> folder.
-  </div>
-  <div class="card">
-    Add a drop-down menu using <a href="https://observablehq.com/framework/inputs/select"><code>Inputs.select</code></a> and use it to filter the data shown in a chart.
-  </div>
-  <div class="card">
-    Write a <a href="https://observablehq.com/framework/loaders">data loader</a> that queries a local database or API, generating a data snapshot on build.
-  </div>
-  <div class="card">
-    Import a <a href="https://observablehq.com/framework/imports">recommended library</a> from npm, such as <a href="https://observablehq.com/framework/lib/leaflet">Leaflet</a>, <a href="https://observablehq.com/framework/lib/dot">GraphViz</a>, <a href="https://observablehq.com/framework/lib/tex">TeX</a>, or <a href="https://observablehq.com/framework/lib/duckdb">DuckDB</a>.
-  </div>
-  <div class="card">
-    Ask for help, or share your work or ideas, on our <a href="https://github.com/observablehq/framework/discussions">GitHub discussions</a>.
-  </div>
-  <div class="card">
-    Visit <a href="https://github.com/observablehq/framework">Framework on GitHub</a> and give us a star. Or file an issue if you’ve found a bug!
-  </div>
+  /* Style pour chaque fenêtre */
+  .window {
+    background-color: #f0f4f8;
+    border: 2px solid #d1d9e6;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    cursor: pointer;
+    text-decoration: none;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .window:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
+    background-color: #e6effb;
+  }
+</style>
+
+<div class="index-container">
+  <!-- Fenêtre 1 -->
+  <a href="https://bastien-pz.github.io/TDB-EXFSRI/recolte" class="window">
+    Page 1 : Introduction
+  </a>
+  
+  <!-- Fenêtre 2 -->
+  <a href="https://observablehq.com/@utilisateur/page2" class="window">
+    Page 2 : Analyse des données
+  </a>
+  
+  <!-- Fenêtre 3 -->
+  <a href="https://observablehq.com/@utilisateur/page3" class="window">
+    Page 3 : Visualisations
+  </a>
+  
+  <!-- Fenêtre 4 -->
+  <a href="https://observablehq.com/@utilisateur/page4" class="window">
+    Page 4 : Tableau de bord
+  </a>
+  
+  <!-- Fenêtre 5 -->
+  <a href="https://observablehq.com/@utilisateur/page5" class="window">
+    Page 5 : Interactions
+  </a>
+  
+  <!-- Fenêtre 6 -->
+  <a href="https://observablehq.com/@utilisateur/page6" class="window">
+    Page 6 : Conclusion
+  </a>
 </div>
+`
+
 
 <style>
 
