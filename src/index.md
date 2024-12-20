@@ -8,20 +8,29 @@ toc: false
 </div>
 
 <div class="index-container">
-  <!-- Fenêtre 1 -->
-  <a href="https://bastien-pz.github.io/TDB-EXFSRI/recolte" class="window">
-    <h1>Récolte de bois</h1>
+  <a href="https://bastien-pz.github.io/TDB-EXFSRI/1.recolte" class="window">
+    Récolte de bois<br><br>
     <img src="./img/img_recolte.webp" alt="Récolte de bois" style="width: 500px; height: 150px;">
   </a>
   
-  <!-- Fenêtre 2 -->
-  <a href="https://bastien-pz.github.io/TDB-EXFSRI/sciages" class="window">
-    Production de sciages, bois sous rails et merrains
+  <a href="https://bastien-pz.github.io/TDB-EXFSRI/2.sciages" class="window">
+    Production de sciages<br><br>
   </a>
   
-  <!-- Fenêtre 3 -->
-  <a href="https://bastien-pz.github.io/TDB-EXFSRI/connexes" class="window">
-    Produits connexes de scierie
+  <a href="https://bastien-pz.github.io/TDB-EXFSRI/3.connexes" class="window">
+    Produits connexes<br><br>
+  </a>
+
+  <a href="https://bastien-pz.github.io/TDB-EXFSRI/4.methodo" class="window">
+    Source et méthodologie
+  </a>
+
+  <a href="https://bastien-pz.github.io/TDB-EXFSRI/5.pour_en_savoir_plus" class="window">
+    Pour en savoir plus
+  </a>
+
+  <a href="https://bastien-pz.github.io/TDB-EXFSRI/6.a_definir" class="window">
+    Page à définir
   </a>
 </div>
 
@@ -52,8 +61,8 @@ toc: false
     border-radius: 10px;
     text-align: center;
     padding: 20px;
-    font-family: Arial, sans-serif;
-    font-size: 16px;
+    font-family: Marianne, sans-serif;
+    font-size: 20px;
     font-weight: bold;
     color: #333;
     cursor: pointer;
