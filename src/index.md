@@ -10,16 +10,17 @@ toc: false
 <div class="index-container">
   <!-- Fenêtre 1 -->
   <a href="https://bastien-pz.github.io/TDB-EXFSRI/recolte" class="window">
-    Récolte de bois
+    <h1>Récolte de bois</h1>
+    <img src="./img/img_recolte.webp" alt="Récolte de bois" style="width: 500px; height: 150px;">
   </a>
   
   <!-- Fenêtre 2 -->
-  <a href="https://observablehq.com/@utilisateur/page2" class="window">
+  <a href="https://bastien-pz.github.io/TDB-EXFSRI/sciages" class="window">
     Production de sciages, bois sous rails et merrains
   </a>
   
   <!-- Fenêtre 3 -->
-  <a href="https://observablehq.com/@utilisateur/page3" class="window">
+  <a href="https://bastien-pz.github.io/TDB-EXFSRI/connexes" class="window">
     Produits connexes de scierie
   </a>
 </div>
