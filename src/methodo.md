@@ -1,0 +1,85 @@
+---
+title: Source et méthodologie
+---
+
+<style>
+    body {
+        font-family: 'Marianne', sans-serif;
+        font-size: 16px;
+        text-align: justify;
+    }
+
+    h1{
+        font-family: 'Marianne', sans-serif;
+        color:rgb(11, 102, 158);
+    }
+
+    h2, h3 {
+        font-family: 'Marianne', sans-serif;
+        color:rgb(17, 126, 193);
+    }
+</style>
+
+<h1>Source et méthodologie</h1>
+
+<p><strong>Chaque année, le Service de la statistique et de la prospective (SSP) du ministère en charge de l’agriculture réalise une enquête sur les exploitations forestières et scieries (EXF-SRI). Celle-ci fournit les données de récolte et de production de la filière forêt-bois en France métropolitaine sur l’ensemble du secteur et dans une nomenclature détaillée</strong></p>
+
+<h2>Objectifs</h2>
+<p>L’enquête annuelle sur les exploitations forestières et scieries (EXF-SRI) mesure la production en quantités physiques en France métropolitaine, de l’ensemble des branches d’activités des exploitations forestières et des scieries (voir ci-dessous la partie Définitions). Elle permet de connaître chaque année les volumes de bois récoltés et commercialisés, de bois sciés, de merrains ou bois sous rails et de certains produits finis (lames pour parquets…).</p>
+
+<p><strong>Le volet « exploitations forestières » (EXF)</strong> de l’enquête mesure les produits d’exploitation forestière récoltés et commercialisés au cours de l’année de référence. Les résultats en volume sont ventilés par essence et lieu de récolte par région.</p>
+
+<p><strong>Le volet « scierie » (SRI)</strong> mesure la production de sciages et de produits connexes commercialisés pendant l’année de référence, les quantités et le montant total des facturations (en millier d’euros hors taxes) au niveau du siège de l’entreprise. Le volume de sciages produit dans l’année par essence et par catégorie est ventilé par région selon la localisation des établissements producteurs de sciages.</p>
+
+<p>L’enquête EXF-SRI permet de connaître le montant en volume et en valeur de la production de bois commercialisée en France métropolitaine par grandes catégories de produits. Elle permet ainsi de répondre au règlement européen 2019/2152 du 27 novembre 2019 relatif aux statistiques européennes d’entreprises, dit EBS (European Business Statistics), qui se substitue depuis le 1er janvier 2022 au règlement européen Prodcom (PRODuction COMmunautaire).</p>
+
+<h2>Champ de l'enquête</h2>
+<p>L’enquête cible toutes les entreprises ayant des activités d'exploitation forestière (volet EXF) et de sciages, merrains, bois sous rail et certains produits finis (volet SRI) en France métropolitaine.</p>
+
+<p>Pour le volet EXF, les entreprises interrogées sont des entreprises françaises ou étrangères ainsi que des propriétaires fonciers (ex : groupement forestier), qui récoltent du bois en France métropolitaine. Pour être interrogées, elles doivent être propriétaires des coupes et assurer l'abattage, le façonnage, le débardage et la vente du bois sinon l'utiliser dans leur entreprise (ex : scierie).</p>
+
+<p>La liste des entreprises interrogées est constituée des enquêtés de l’année précédente mise à jour à partir des informations du répertoire Sirene. Elles sont identifiées par leur numéro Siren et leur code d’activité principale.</p>
+
+<p>En 2023, 4 928 entreprises ont été interrogées dans EXF-SRI. Parmi elles, 3 023 contribuent aux statistiques des activités d'exploitation forestière et de sciages car un nombre significatif d'exploitants forestiers interrogés ne déclarent aucune activité en 2023.</p>
+
+<h2>Questionnaires</h2>
+<p>Les entreprises susceptibles d’exercer une activité d’exploitation forestière et/ou de sciage reçoivent par voie postale à leur siège social la documentation nécessaire pour renseigner sur internet le questionnaire. Ce dernier comprend deux volets :</p>
+<ul>
+    <li>l’activité d’exploitation forestière (récolte de grumes, de bois d’industrie et de bois destinés à l'énergie) (volet EXF),</li>
+    <li>l’activité de scierie (production de sciages, de bois sous rails, de merrains, de produits bois transformés et de produits connexes générés par cette activité) (volet SRI).</li>
+</ul>
+
+<h2>Méthode de collecte</h2>
+<p>L’enquête est exhaustive. La collecte est réalisée dans un premier temps par Internet. A l’issue de cette étape, une collecte par téléphone ou en face-à-face est réalisée par les Services Régionaux de l’Information Statistique et Économique (SRISE) des Directions Régionales de l’Alimentation, de l’Agriculture et de la Forêt (DRAAF) afin de recueillir la réponse des unités n’ayant pas encore répondu à l’enquête, ou celles pour lesquelles les questionnaires sont incomplets.</p>
+
+<h2>Prise en compte des non-répondants</h2>
+<p>La production d'une entreprise qui refuse de répondre est estimée par reconduction de la dernière réponse qu’elle a donnée à l’enquête. Les entreprises n'ayant jamais répondu à l'enquête ne font pas l'objet d'imputation et sont retirées des analyses.</p>
+
+<p>Parmi les entreprises interrogées sur leur activité réalisée en 2023, 387 n'ont pas répondu à l'enquête, le taux de non réponse est de 7,8 %. Le traitement de la non réponse par reconduction a été appliqué à 113 d’entre elles. Les 274 restantes, soit 5,6 % des entreprises interrogées, sont retirées des analyses et ne contribuent pas aux statistiques diffusées sur Agreste.</p>
+
+<h2>Secret statistique</h2>
+<p>Les enquêtes EXF-SRI relèvent de la loi n° 51-711 du 7 juin 1951 sur l’obligation, la coordination et le secret en matière de statistiques. Toutes les personnes ayant accès aux données collectées (enquêteurs, agents recenseurs, statisticiens, chercheurs autorisés) sont astreintes au secret statistique.</p>
+
+<p>Aucune statistique qui concernerait moins de trois entreprises ou une entreprise qui contribuerait à elle seule à plus de 85 % de ce résultat, n’est publiée. La mention « s » (secret statistique) remplace les données pour lesquelles ces règles sont appliquées.</p>
+
+<p>Enfin, la mention « nd », présente dans certains tableaux, signifie que la donnée est « non disponible ».</p>
+
+<h2>Définitions</h2>
+<p>Le champ de l'enquête est défini par les codes d'activité de la NAF rév2 suivants : « Exploitation forestière » (02.20Z), « Sciage et rabotage du bois hors imprégnation » (16.10A) et pour partie1 des branches « Imprégnation du bois » (16.10B), « Fabrication de parquets assemblés » (16.22Z) et « Fabrication d’emballages en bois » (16.24Z).</p>
+
+<p><strong>Merrain</strong> : pièce de bois, obtenue par fendage ou sciage, utilisée principalement dans la fabrication de tonneaux ou de barriques.</p>
+<p><strong>Bois sous rail</strong> : pièce de bois utilisée pour supporter et fixer les rails des voies ferrées.</p>
+
+<h2>Diffusion</h2>
+<p>Les résultats sont diffusés en retenant les normes de l’Association pour la rationalisation et la mécanisation de l’exploitation forestière (Armef) et de l’Institut technologique FCBA (forêt, cellulose, bois, ameublement).</p>
+
+<p>Les quantités sont diffusées :</p>
+<ul>
+    <li>en mètre cube rond sur écorce (m3r) pour la récolte de bois ;</li>
+    <li>en mètre cube sciage (m3s) pour les merrains, les bois sous rails et les sciages ;</li>
+    <li>en tonne pour les bois de trituration, énergie et les produits connexes de scierie.</li>
+</ul>
+
+<p>Toutes les unités et coefficients de conversion pour les enquêtes Exploitation forestière et Sciage, rabotage, ponçage et imprégnation du bois sont disponibles sur le site Agreste :
+<p><a href="https://www.agreste.agriculture.gouv.fr/" target="_blank">Agreste / Enquêtes > Forêts, bois et dérivés > Récolte de bois et production de sciages / En savoir plus</a></p>
+
