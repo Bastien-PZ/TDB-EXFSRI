@@ -29,8 +29,8 @@ toc: false
     Pour en savoir plus
   </a>
 
-  <a href="https://bastien-pz.github.io/TDB-EXFSRI/6.a_definir" class="window">
-    Page à définir
+  <a href="https://bastien-pz.github.io/TDB-EXFSRI/6.a_propos" class="window">
+    À propos
   </a>
 </div>
 
