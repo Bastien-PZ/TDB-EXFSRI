@@ -8,29 +8,29 @@ toc: false
 </div>
 
 <div class="index-container">
-  <a href="https://bastien-pz.github.io/TDB-EXFSRI/1.recolte" class="window">
+  <a href="./1.recolte" class="window">
     Récolte de bois<br><br>
     <img src="./img/img_recolte.webp" alt="Récolte de bois" style="width: 500px; height: 150px;">
   </a>
   
-  <a href="https://bastien-pz.github.io/TDB-EXFSRI/2.sciages" class="window">
+  <a href="./2.sciages" class="window">
     Production de sciages<br><br>
     <img src="./img/img_sciages.webp" alt="Production de sciages" style="width: 500px; height: 150px;">
   </a>
   
-  <a href="https://bastien-pz.github.io/TDB-EXFSRI/3.connexes" class="window">
+  <a href="./3.connexes" class="window">
     Produits connexes<br><br>
   </a>
 
-  <a href="https://bastien-pz.github.io/TDB-EXFSRI/4.methodo" class="window">
+  <a href="./4.methodo" class="window">
     Source et méthodologie
   </a>
 
-  <a href="https://bastien-pz.github.io/TDB-EXFSRI/5.pour_en_savoir_plus" class="window">
+  <a href="./5.pour_en_savoir_plus" class="window">
     Pour en savoir plus
   </a>
 
-  <a href="https://bastien-pz.github.io/TDB-EXFSRI/6.a_propos" class="window">
+  <a href="./6.a_propos" class="window">
     À propos
   </a>
 </div>
