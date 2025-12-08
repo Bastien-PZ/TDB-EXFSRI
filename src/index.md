@@ -30,7 +30,7 @@ toc: false
     Pour en savoir plus
   </a>
 
-  <a href="./6.a_propos" class="window">
+  <a href="./plot-dual-axis" class="window">
     À propos
   </a>
 </div>
