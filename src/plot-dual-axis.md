@@ -34,3 +34,7 @@ To implement a dual-axis chart, we remap _efficiency_ to its equivalent value in
 ```js echo
 const cars = FileAttachment("./data/new-passenger-cars.csv").csv({typed: true})
 ```
+
+```js echo
+cars
+```
