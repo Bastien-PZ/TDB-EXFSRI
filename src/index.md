@@ -28,7 +28,7 @@ toc: false
     <a href="./4.pour_en_savoir_plus" class="window">
       Pour en savoir plus
     </a>
-    <a href="./5.a_propos.md" class="window">
+    <a href="./5.a_propos" class="window">
       À propos
     </a>
   </div>
