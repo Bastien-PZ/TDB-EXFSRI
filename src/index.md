@@ -7,7 +7,7 @@ toc: false
 <div class="hero">
   <h1>Tableau de bord Enquête EXF-SRI</h1>
   <h2>Bienvenue sur le site de présentation des résultats de l'enquête Exploitations forestières et sciages (EXF-SRI).</h2><br>
-  <h3>Sélectionnez ci-dessous la rubrique de votre choix</h3>
+  <h3>Sélectionnez ci-dessous la rubrique de votre choix :</h3>
 </div>
 
 <div class="index-container">
