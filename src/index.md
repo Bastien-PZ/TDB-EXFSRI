@@ -10,7 +10,7 @@ toc: false
   <h3>Sélectionnez ci-dessous la rubrique de votre choix :</h3>
 </div>
 
-<div class="index-container">
+<div class="index-container_recolte">
   <div class="row">
     <a href="./1.0.recolte" class="window">
       Récolte de bois<br><br>
