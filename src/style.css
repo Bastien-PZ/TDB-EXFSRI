@@ -1,11 +1,21 @@
 /* Feuille de style CSS */
 
-.index-container {
+.index-container_recolte {
   display: flex;
   flex-direction: column;
   gap: 20px;
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
+  max-width: 900px;
+  margin: auto;
+}
+
+.index-container_sciages {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 40px;
   max-width: 900px;
   margin: auto;
 }

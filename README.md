@@ -43,7 +43,9 @@ Pour plus d'informations, voir <https://observablehq.com/framework/getting-start
 │  ├─ 1.1.recolte_nationale.md                        # Page de la récolte nationale
 │  ├─ 1.2.recolte_regionale.md                        # Page de la récolte régionale
 │  ├─ 1.3.recolte_departementale.md                   # Page de la récolte départementale
-│  ├─ 2.sciages.md                                    # Page d'accueil des sciages
+│  ├─ 2.0.sciages.md                                  # Page d'accueil des sciages
+│  ├─ 2.1.sciages_nationaux.md                        # Page de la production de sciages nationale
+│  ├─ 2.2.sciages_regionaux.md                        # Page de la production de sciages régionale
 │  ├─ 3.methodo.md                                    # Page méthodo
 │  ├─ 4.pour_en_savoir_plus.md                        # Page pour en savoir plus
 │  ├─ 5.a_propos.md                                   # Page à propos

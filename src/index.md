@@ -16,7 +16,7 @@ toc: false
       Récolte de bois<br><br>
       <img src="./img/img_recolte.webp" alt="Récolte de bois" style="width: 300px; height: 150px;">
     </a>
-    <a href="./2.sciages" class="window">
+    <a href="./2.0.sciages" class="window">
       Production de sciages<br><br>
       <img src="./img/img_sciages.webp" alt="Production de sciages" style="width: 300px; height: 150px;">
     </a>
