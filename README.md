@@ -20,7 +20,9 @@ Pour plus d'informations, voir <https://observablehq.com/framework/getting-start
 .
 ├─ src
 │  ├─ components
-│  │  └─ timeline.js                                  # Un module importé
+│  │  ├─ exctractColumns.js
+│  │  ├─ graphHisto.js  
+│  │  └─ timeline.js                                
 |  | 
 │  ├─ data
 │  │  ├─ departements.geojson                         # Fichier cartographique pour les départements
